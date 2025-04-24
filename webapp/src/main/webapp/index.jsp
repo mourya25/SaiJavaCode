@@ -3,7 +3,7 @@
 dinesh  mourya 9137738436
 <h3> The Victor 
 by C. W. Longenecker
-If  think you are beaten, you are.
+If you DINESH _MOURYA  think you are beaten, you are.
 If you think you dare not, you don’t.
 If you like to win but think you can’t,
 It’s almost a cinch you won’t.
