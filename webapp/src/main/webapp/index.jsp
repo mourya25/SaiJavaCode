@@ -1,22 +1,5 @@
 <h1> Hello Dear Students!! Welcome to DevOps Project-2!! </h1>
 <h2> By Mr. Sai from Saidemy!! </h2>
 dinesh  mourya 9137738436
-<h3> The Victor 
-by C. W. Longenecker
-If  DINESH _MOURYA  think you are beaten, you are.
-If you think you dare not, you don’t.
-If you like to win but think you can’t,
-It’s almost a cinch you won’t.
-If you think you’ll lose, you’re lost.
-For out in the world we find
-Success begins with a fellow’s will.
-It’s all in the state of mind.
-If you think you are out classed, you are.
-You’ve got to think high to rise.
-You’ve got to be sure of your-self before
-You can ever win the prize.
-Life’s battles don’t always go
-To the stronger or faster man.
-But sooner or later, the man who wins
-Is the man who thinks he can. </h3>
+<h3> A good story encourages us to turn the next page and read more. We want to find out what happens next and what the main characters do and what they say to each other. We may feel excited, sad, afraid, angry or really happy. This is because the experience of reading or listening to a story is much more likely to make us 'feel' that we are part of the story, too. Just like in our 'real' lives, we might love or hate different characters in the story. Perhaps we recognise ourselves or others in some of them. Perhaps we have similar problems. </h3>
 
